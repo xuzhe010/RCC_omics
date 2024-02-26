@@ -1,4 +1,4 @@
-#full gene number 与emp相关性
+#Correlation with full gene number and EPM
 
 epm.data = read.xlsx("Kidney_circle_epms.xlsx")
 epm.data = epm.data %>% left_join(df) %>% 
