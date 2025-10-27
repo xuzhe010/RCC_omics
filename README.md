@@ -1,5 +1,5 @@
 # RCC_omics
-This repository contains code from "Extrachromosomal miRNA-gene amplification drives renal cancer phenotypes"
+This repository contains code from "Extrachromosomal miRNA-gene amplification contribute to renal cancer phenotypes"
 ## scripts for main figure plots
 * eccDNA_CNV_heatmap.R
 * eccDNA_length_plot.R
